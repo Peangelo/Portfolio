@@ -14,7 +14,7 @@ return (
                 {post.titulo}
             </h2>
 
-            <button className={styles.botaoLer}> Ler </button>
+            <button className={styles.botaoLer}> Ver </button>
         </div>
     </Link>
 )
