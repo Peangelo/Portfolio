@@ -21,22 +21,22 @@ export default function SobreMim() {
             >
             </img>
             <p className={styles.paragrafo}>     
-            Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui.
+            Oi, tudo bem? Me chamo Rafael Peangelo de Souza Filho, tenho 22 anos e sou apaixonado por desenvolvimento de software.
             </p>
             <p className={styles.paragrafo}> 
-            Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
+            Minha história com programação começou no Instituto de Tecnologia de Barueri (ITB), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como HTML/CSS, Java, C#. Pude tambem conhecer bancos de dados como SQL e Oracle.
             </p>
             <p className={styles.paragrafo}> 
-            No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles. 
+            Com uma formação em Ciência da Computação na Universidade Paulista (UNIP) e experiência em automação de testes e desenvolvimento full-stack, tenho me dedicado a contribuir com equipes ágeis, buscando sempre aprender e crescer na área de tecnologia. 
             </p>
             <p className={styles.paragrafo}> 
-            Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+            Ao longo da minha carreira, trabalhei com diversas tecnologias, desde linguagens de programação como Python, C#, JavaScript e Cobol, até ferramentas como Cypress e Selenium para automação de testes. Minha experiência inclui o desenvolvimento de soluções eficientes, otimização de processos e aplicação de metodologias ágeis como Scrum e Kanban.
             </p>
             <p className={styles.paragrafo}> 
-            E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
+            Atualmente, estou focado em fortalecer minhas habilidades tanto em programação quanto em qualidade de software, sempre buscando novas oportunidades para me especializar e colaborar em projetos que façam a diferença. Gosto de desafios e de estar em constante evolução, acreditando que cada projeto é uma chance de melhorar e trazer mais valor ao time.
             </p>
             <p className={styles.paragrafo}> 
-            Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+            No tempo livre, também busco me aprofundar em novas tecnologias e melhorar meu conhecimento em React, para continuar me desenvolvendo como um profissional versátil.
             </p>
         </PostModelo>
     )
