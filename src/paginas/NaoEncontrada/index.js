@@ -1,7 +1,10 @@
 import BotaoPrincipal from "componentes/BotaoPrincipal"
 import styles from "./NaoEncontrada.module.css"
+import { useNavigate } from "react-router-dom"
 
 export default function NaoEncontrada() {
+
+    const navegar = useNavigate()
 
     return (
 
@@ -17,8 +20,13 @@ export default function NaoEncontrada() {
                 Tem certeza que é isso que esta procurando?
             </p>
 
-            <div className={styles.botaoContainer}>
-                <BotaoPrincipal> voltar </BotaoPrincipal>
+            <div 
+                className={styles.botaoContainer}
+                onClick={() => navegar(-1)}
+            >
+                <BotaoPrincipal tamanho="lg"> 
+                    voltar 
+                </BotaoPrincipal>
             </div>
          
         </div>
