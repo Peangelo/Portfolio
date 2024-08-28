@@ -21,7 +21,7 @@ export default function SobreMim() {
             >
             </img>
             <p className={styles.paragrafo}>     
-            Oi, tudo bem? Me chamo Rafael Peangelo de Souza Filho, tenho 22 anos e sou apaixonado por desenvolvimento de software.
+            Oi, espero que estejam bem! Me chamo Rafael Peangelo de Souza Filho, tenho 22 anos e sou apaixonado por desenvolvimento de software.
             </p>
             <p className={styles.paragrafo}> 
             Minha história com programação começou no Instituto de Tecnologia de Barueri (ITB), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como HTML/CSS, Java, C#. Pude tambem conhecer bancos de dados como SQL e Oracle.
